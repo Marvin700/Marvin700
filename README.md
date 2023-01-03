@@ -2,8 +2,6 @@
 
 I´m Marvin from Germany
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marvin700)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **Marvin700/Marvin700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
