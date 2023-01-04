@@ -2,6 +2,8 @@
 
 I´m Marvin, an IT specialist for system integration from Germany. <BR>
 In my spare time I develop the Windows_Optimisation_Pack.
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marvin700)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
