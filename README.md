@@ -5,6 +5,7 @@ In my spare time I develop the Windows_Optimisation_Pack.
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marvin700)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marvin700&Windows_Optimisation_Pack)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Marvin700/Marvin700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
