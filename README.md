@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I´m Marvin from Germany
+I´m Marvin, an IT specialist for system integration from Germany.
+In my spare time I develop the Windows_Optimisation_Pack.
+
 
 <!--
 **Marvin700/Marvin700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
