@@ -1,7 +1,7 @@
-### Hi there 👋 
+Hi there 👋
 
-I´m Marvin, a german IT specialist for system integration. <BR>
-In my spare time I develop an automated solutions to optimise Windows.
+I'm Marvin, a German IT specialist for system integration. <BR>
+In my spare time I develop an automated solution to optimise Windows.
   
 <!--
 **Marvin700/Marvin700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
